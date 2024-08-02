@@ -1,6 +1,9 @@
-## Hi World, Welcome to my world!! 👋
+## Welcome to my world!! 👋
 
 <img src="https://github.com/TheBoyBass/TheBoyBass/blob/main/Media/WhatsApp%20Video%202024-08-02%20at%2004.11.17_7d3b3a5c.gif" width="auto" height="auto">
+
+**Hey there! 👋**
+I’m Lindokuhle, a passionate software developer and graphic designer based in South Africa. Welcome to my GitHub profile! Here, you’ll find a mix of code, design, and creativity. Feel free to explore my repositories, and don’t hesitate to reach out—I love connecting with fellow developers and designers.
 <!--
 **TheBoyBass/TheBoyBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
