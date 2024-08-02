@@ -1,5 +1,6 @@
 ## Hi World, Welcome to my world!! 👋
 
+<img src="https://github.com/TheBoyBass/TheBoyBass/blob/main/Media/WhatsApp%20Video%202024-08-02%20at%2004.11.17_7d3b3a5c.gif" width="auto" height="auto">
 <!--
 **TheBoyBass/TheBoyBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
