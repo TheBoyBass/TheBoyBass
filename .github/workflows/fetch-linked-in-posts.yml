@@ -1,0 +1,16 @@
+name: Sync LinkedIn Posts to README
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+
+      - name: Sync LinkedIn Posts
+        uses: TheBoyBass/TheBoyBass@main
+        with:
+          feeds: "https://www.linkedin.com/in/lindokuhlenormansibeko/recent-activity/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B9mF3hLU%2BQUSyMwNaH1IwOA%3D%3D"
