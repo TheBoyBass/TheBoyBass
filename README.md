@@ -25,6 +25,14 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 **CodeSpace Academy**: I’m a student at CodeSpace Academy, honing my skills in web development, programming, and design. Check out my course projects right here on my GitHub Page—they’re a work in progress, but I’m proud of the progress I’ve made so far.
 ---
 
+## 🧶 Latest Linked-in Posts
+
+<!-- linkedin-posts:start -->
+
+<!-- linkedin-posts:end -->
+
+
+---
 ## 🚀 Let’s Connect
 **✉ Reach me via email:** elensibeko@gmail.com
 
