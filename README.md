@@ -25,13 +25,10 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 **CodeSpace Academy**: I’m a student at CodeSpace Academy, honing my skills in web development, programming, and design. Check out my course projects right here on my GitHub Page—they’re a work in progress, but I’m proud of the progress I’ve made so far.
 ---
 
-## 🧶 Latest Linked-in Posts
+## 🧶 My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBoyBass)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- linkedin-posts:start -->
-
-<!-- linkedin-posts:end -->
-
-
+![Lindo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBoyBass&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 ## 🚀 Let’s Connect
 **✉ Reach me via email:** elensibeko@gmail.com
