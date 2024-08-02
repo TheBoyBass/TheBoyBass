@@ -23,6 +23,14 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 **Project X:** A web app that will solve a very touchy issue in South Africa. Currently in the early stages of development. I can't say what it is about yet🤫 but Stay tuned!
 
 **CodeSpace Academy**: I’m a student at CodeSpace Academy, honing my skills in web development, programming, and design. Check out my course projects right here on my GitHub Page—they’re a work in progress, but I’m proud of the progress I’ve made so far.
+---
+
+## 🚀 Let’s Connect
+**✉ Reach me via email:** elensibeko@gmail.com
+
+**💬 Follow me on Insta:** <a href="https://www.instagram.com/theboybass/">TheBoyBass</a>
+
+**🌐 Visit my portfolio website:** See my design work and learn more about my journey. **(link to be added soon!!)**
 
 <!--
 **TheBoyBass/TheBoyBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
