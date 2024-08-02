@@ -3,6 +3,7 @@
 <img src="https://github.com/TheBoyBass/TheBoyBass/blob/main/Media/WhatsApp%20Video%202024-08-02%20at%2004.11.17_7d3b3a5c.gif" width="auto" height="auto">
 
 **Hey there! 👋**
+
 I’m Lindokuhle, a passionate software developer and graphic designer based in South Africa. Welcome to my GitHub profile! Here, you’ll find a mix of code, design, and creativity. Feel free to explore my repositories, and don’t hesitate to reach out—I love connecting with fellow developers and designers.
 
 ---
@@ -16,19 +17,22 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" alt="github original wordmark" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="linux original logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" alt="python original wordmark" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg" alt="visual studio code logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" alt="Wordpress Logo" width="50" height="50"/> 
+
 ---
 
 ## 🔭 What I’m Working On
 
 **Project X:** A web app that will solve a very touchy issue in South Africa. Currently in the early stages of development. I can't say what it is about yet🤫 but Stay tuned!
 
-**CodeSpace Academy**: I’m a student at CodeSpace Academy, honing my skills in web development, programming, and design. Check out my course projects right here on my GitHub Page—they’re a work in progress, but I’m proud of the progress I’ve made so far.
+**CodeSpace Academy**:  **I’m a student at CodeSpace Academy, honing my skills in web development, programming, and design. Check out my course projects right here on my GitHub Page—they’re a work in progress, but I’m proud of the progress I’ve made so far.
+
 ---
 
 ## 🧶 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBoyBass)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Lindo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBoyBass&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ---
 ## 🚀 Let’s Connect
 **✉ Reach me via email:** elensibeko@gmail.com
@@ -36,6 +40,8 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 **💬 Follow me on Insta:** <a href="https://www.instagram.com/theboybass/">TheBoyBass</a>
 
 **🌐 Visit my portfolio website:** See my design work and learn more about my journey. **(link to be added soon!!)**
+
+---
 
 <!--
 **TheBoyBass/TheBoyBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
