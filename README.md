@@ -15,8 +15,7 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" alt="git orange logo" width="50" height="50"/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Linux Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" alt="github original wordmark" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="linux original logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original-wordmark.svg" alt="github original wordmark" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="linux original logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original-wordmark.svg" alt="python original wordmark" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualstudio/visualstudio-original-wordmark.svg" alt="visual studio code logo" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" alt="Wordpress Logo" width="50" height="50"/> 
