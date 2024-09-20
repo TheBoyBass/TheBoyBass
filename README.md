@@ -9,8 +9,7 @@ I’m Lindokuhle, a passionate software developer and graphic designer based in 
 ---
 ## 🧰ToolBox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="Html5 original wordmark" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg" alt="Canva Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="Html5 original wordmark" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/canva/canva-original.svg" alt="Canva Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS3 original wordmark" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" alt="Figma original logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain.svg" alt="git orange logo" width="50" height="50"/>
